@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="brand/oddeye-logo.png" alt="Odd Eye logo" width="520" />
+  <img src="brand/05-lockup.png" alt="Odd Eye logo" width="520" />
 </p>
 
 # Odd Eye
